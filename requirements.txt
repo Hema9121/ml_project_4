@@ -1,3 +1,5 @@
 pandas
 Flask
 gunicorn
+numpy
+-e .
